@@ -1,2 +1,25 @@
 [Checksums]
 0x0afc9564 scripts\guitar\custom_menu\guitar_custom_menu_cutoff_viewer.qb
+0x8656c7ef guitar_custom_menu_cutoff_viewer
+0xe2d08a33 custom_menu_cutoff_viewer_difficulty_select_fs
+0x70291f04 create
+0x5108de41 create_select_difficulty_menu
+0x83b57984 destroy
+0x2f7ad3f9 destroy_select_difficulty_menu
+0xfab70e10 actions
+0xb833736d action
+0xec1cd520 continue
+0xc2b65278 flow_state
+0xc2b552da custom_menu_cutoff_viewer_setlist_fs
+0x7953cc98 transition_right
+0x23e9a954 go_back
+0x303ae628 custom_menu_fs
+0x3bb288bb transition_left
+0xc86073dd create_setlist_menu
+0x8713cb2b destroy_setlist_menu
+0x1ddceb70 custom_menu_cutoff_viewer_fs
+0x34a3d649 create_custom_menu_cutoff_viewer
+0xf44b17c2 destroy_custom_menu_cutoff_viewer
+0xc1eb90e3 custom_menu_cutoff_viewer_create_poster
+0xb81e27f1 custom_menu_cutoff_viewer_create_paper
+0x5290b098 custom_menu_cutoff_viewer_container
